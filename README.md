@@ -1,2 +1,3 @@
 # HOMEPAGE
-This is my personal homepage.
+Welcome ! 
+This is Haoming CAI's personal homepage.
